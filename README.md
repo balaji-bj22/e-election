@@ -5,3 +5,5 @@
 -Once registered,all the registered users will get an encrypted token before the day of election,and periodic notifications will be sent to them on the day of election to remind them.
 -On election day,users could be given a deadline of 24 hours to cast their vote using the received token and once a token is used,it becomes invalid.
 -After voting,they could actually check whether their vote has been casted correctly,thus providing a transparency to the voters.
+
+#Thanks and Regards from Team3PointO
