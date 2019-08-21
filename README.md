@@ -2,9 +2,9 @@
 ### Idea
   To create a transparent,decentralised application which will allow user to vote from any location using azure blockchain and Xamarin app.
 ### Pros
-*An user friendly interface
-*Easy to vote and to calculate the results
-*Will increase the poll percentage as eveyone could vote from their living place
+*An user friendly interface.*
+*Easy to vote and to calculate the results.*
+*Will increase the poll percentage as eveyone could vote from their living place.*
 ## Application Roles
 ### Election Admin
       The person who conducts election.
