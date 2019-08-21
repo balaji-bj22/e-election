@@ -17,7 +17,7 @@
 ## Azure Workbench DevKit
   The azure project is cloned and used as the mobile client for android and iOS.
 ### States  
-1)VotingStarted- The election is started and the voters can cast their vote.
+1)VotingStarted- The election is started and the voters can cast their vote.<br/>
 2)VotingEnded- The election is ended and the ElectionAdmin can now announce the result.
 ### WorkFlow
   The ElectionAdmin starts the workflow by creating the contract and also denotes the duration of election.
