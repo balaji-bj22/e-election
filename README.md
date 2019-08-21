@@ -20,7 +20,7 @@
 1)VotingStarted- The election is started and the voters can cast their vote.<br/>
 2)VotingEnded- The election is ended and the ElectionAdmin can now announce the result.
 ### WorkFlow
-![alt text](https://github.com/balaji-bj22/e-election/blob/master/Images/Workflow.jpg)
+![alt text](https://github.com/balaji-bj22/e-election/blob/master/Images/Workflow.PNG)
   The ElectionAdmin starts the workflow by creating the contract and also denotes the duration of election.
   After this,the voter can take the Cast your vote action by sending the candidate ID.
   Each voter will be allowed to vote only once.
