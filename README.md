@@ -18,8 +18,8 @@
   The azure project is cloned and used as the mobile client for android and iOS.
 ## Workflow
 ### States  
-  > VotingStarted- The election is started and the voters can cast their vote.
-  > VotingEnded- The election is ended and the ElectionAdmin can now announce the result.
+   VotingStarted- The election is started and the voters can cast their vote.
+   VotingEnded- The election is ended and the ElectionAdmin can now announce the result.
 ### WorkFlow
   The ElectionAdmin starts the workflow by creating the contract and also denotes the duration of election.
   After this,the voter can take the Cast your vote action by sending the candidate ID.
